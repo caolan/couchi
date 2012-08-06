@@ -1,0 +1,6 @@
+{
+    "name": "couchi",
+    "version": "0.0.1",
+    "description": "CouchDB command-line interface",
+    "bin" : { "couchi" : "./bin/couchi.js" }
+}
